@@ -1,7 +1,6 @@
 name: gila
 channels:
   - conda-forge
-  - http://Password@conda.graylab.jhu.edu
   - defaults
 dependencies:
   - _libgcc_mutex=0.1=main
@@ -106,5 +105,5 @@ dependencies:
     - argparse-utils==1.2.0
     - ipython-blocking==0.2.0
     - pycrypto==2.6.1
-prefix: /home/sumants/anaconda3/envs/gila
+prefix: /Users/huangyim/opt/anaconda3/envs
 
